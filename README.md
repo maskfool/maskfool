@@ -6,7 +6,7 @@ Frontend Dev
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [shubham1996saini@gmail.com](mailto:shubham1996saini@gmail.com)
-* 🚀  I'm currently working on [Pinterest Clone](http://github.com/maskfool/Pinterest-Clone-)
+* 🚀  I'm currently working on myself
 
 ### Skills
 
