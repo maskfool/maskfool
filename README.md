@@ -12,7 +12,6 @@ SDE-2 @ Nagarro (Frontend Developer)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maskfool&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=maskfool)
 
  
 
