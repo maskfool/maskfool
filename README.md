@@ -8,6 +8,9 @@ SDE-2 @ Nagarro (Frontend Developer)
 * ✉️  You can contact me at [shubham1996saini@gmail.com](mailto:shubham1996saini@gmail.com)
 * 🚀  I'm currently working on myself
 
+![](https://komarev.com/ghpvc/?username=maskfool&label=Profile%20views&color=0e75b6&style=flat)
+ 
+
 ### Skills
 
 
