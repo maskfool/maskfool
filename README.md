@@ -9,6 +9,11 @@ SDE-2 @ Nagarro (Frontend Developer)
 * 🚀  I'm currently working on myself
 
 ![](https://komarev.com/ghpvc/?username=maskfool&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maskfool&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=maskfool)
+
  
 
 ### Skills
