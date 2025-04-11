@@ -12,14 +12,6 @@ SDE-2 @ Nagarro (Frontend Developer)
 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=maskfool&theme=omni&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maskfool&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Sou6161&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
 
  
 
