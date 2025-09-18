@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shubham Saini
 =====================================================================================================================================
 
-SDE-2 @ Nagarro (Frontend Developer)
+SDE-2 @ Nagarro (ReactJS/NodeJS + GenAI)
 ------------
 
 * 🌍  I'm based in Delhi, India
